@@ -1,0 +1,20 @@
+└─src  //参与打包，存放大部分代码的文件夹
+ |       	App.css
+ |      	App.test.tsx
+ |      	App.tsx
+ |       	index.css
+ |       	index.tsx  //入口文件
+ |       	logo.svg
+ |       	react-app-env.d.ts  //引用预先定义的ts
+ |       	reportWebVitals.ts  //埋点上报
+ |       	setupTests.ts  //配置单元测试
+ |  node_modules  //依赖包
+ |  public //静态文件
+└─index.html //public内的图片字体都为index.html服务
+ |	manifest  //配置PWA
+ |	robots.txt  //配置文件如何对待爬虫
+│  package.json  //描述项目的基本信息例如名字，版本号，依赖
+│  README.md  //项目的说明
+│  .gitignore  //配置gitignore
+│  tsconfig.json  //配置ts
+│  yarn.lock  //配置版本号
