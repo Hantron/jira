@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T03:24:46.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-vd9247gKgqgJ0OSABTE" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T03:32:52.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="y3Ruzb0UCvdD0UbVSonl" version="23.0.2" type="github">
   <diagram name="第 1 页" id="4iLV3aSLRmlBd6YKkux7">
     <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ayuznKtC7ornopGSUXEp-3" value="flaws&lt;br&gt;1. 过于谨慎和胆小&lt;br&gt;2. 患得患失不敢行动&lt;br&gt;3. 喜欢机械性重复&lt;br&gt;4. 逃避思考&lt;br&gt;5. 喜欢打游戏容易上头&lt;br&gt;6.拖延，导致最后急急忙忙处理问题，造成很大心理压力&lt;br&gt;7.短视，对未来没有规划&lt;br&gt;8. 不喜欢读书，无法获取新知识和阅历&lt;br&gt;9. 敏感，过于在意他人的评价和看法，得到否定评价时会自闭很久&lt;br&gt;10. 难以专注，特别是学习或探索新方向时&lt;br&gt;11. 自卑，不敢抬头看别人，害怕给别人造成困扰，害怕得到别人的指责" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ayuznKtC7ornopGSUXEp-3" value="flaws&lt;br&gt;1. 过于谨慎和胆小&lt;br&gt;2. 患得患失不敢行动&lt;br&gt;3. 喜欢机械性重复&lt;br&gt;4. 逃避思考&lt;br&gt;5. 喜欢打游戏容易上头&lt;br&gt;6.拖延，导致最后急急忙忙处理问题，造成很大心理压力&lt;br&gt;7.短视，对未来没有规划&lt;br&gt;8. 不喜欢读书，无法获取新知识和阅历&lt;br&gt;9. 敏感，过于在意他人的评价和看法，得到否定评价时会自闭很久；甚至身边的人叹气或者不说话我都会觉得是自己的问题；&lt;br&gt;10. 难以专注，特别是学习或探索新方向时&lt;br&gt;11. 自卑，不敢抬头看别人，害怕给别人造成困扰，害怕得到别人的指责；" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ayuznKtC7ornopGSUXEp-4" value="merit&lt;br&gt;1. 好胜心，不允许身边的人超越自己太多&lt;br&gt;2. 对自己感兴趣的事情会全身心投入&lt;br&gt;3. 努力，当自己在做认可的事情的时候会非常努力和自律，有时忘掉时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ayuznKtC7ornopGSUXEp-4" value="merit&lt;br&gt;1. 好胜心，不允许身边的人超越自己太多&lt;br&gt;2. 对自己感兴趣的事情会全身心投入&lt;br&gt;3. 努力，当自己在做认可的事情的时候会非常努力和自律，有时忘掉时间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ayuznKtC7ornopGSUXEp-5" value="env&lt;br&gt;1. mentor，关键场景会保护我，但是更多时候在打压我，增长了我的自卑情绪，同时并没有教会我什么有用的知识；在我努力进步的时候假惺惺关心我让我早下班，到给成果的时候有指责我不努力；抠门小气，斤斤计较；喜欢质疑我打压我，导致我唯唯诺诺；我请教业务问题时会支支吾吾打哈哈，没有传授太多东西给我；害怕教会徒弟饿死师傅，有时不会把自己懂的东西教给我；&lt;br&gt;2. new leader：现实，能力不行的下属直接扔掉，喜欢营造加班的氛围，不太允许下属请假；喜欢能力强、爱加班、会来事的手下&lt;br&gt;3. new team：几乎都是外包，学不到什么东西，但是大家对新的正编有很高期待；" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ayuznKtC7ornopGSUXEp-5" value="env&lt;br&gt;1. mentor，关键场景会保护我，但是更多时候在打压我，增长了我的自卑情绪，同时并没有教会我什么有用的知识；在我努力进步的时候假惺惺关心我让我早下班，到给成果的时候有指责我不努力；抠门小气，斤斤计较；喜欢质疑我打压我，导致我唯唯诺诺；我请教业务问题时会支支吾吾打哈哈，没有传授太多东西给我；害怕教会徒弟饿死师傅，有时不会把自己懂的东西教给我；&lt;br&gt;2. new leader：现实，能力不行的下属直接扔掉，喜欢营造加班的氛围，不太允许下属请假；喜欢能力强、爱加班、会来事的手下&lt;br&gt;3. new team：几乎都是外包，学不到什么东西，但是大家对新的正编有很高期待；" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ayuznKtC7ornopGSUXEp-6" value="next step&lt;br&gt;1. 放弃幻想：公司招我过来是让我创造价值和利益的，1k的成本要创造10k的价值，公司是要盈利的；不要指望公司能教会自己什么，不要指望身边的人能教给自己什么，我的能力和努力要满足他们的需求和诉求；&lt;br&gt;2. 脚踏实地：学习上从零开始（工作上没有任何机会从零开始，现实点），前后端网络数据结构等知识都重新开始学，先找到好的思维方式和学习方法，拟定现实的学习计划，培养学习兴趣，一步一步往上爬。&lt;br&gt;3. 思考：多用一下生锈的脑子，不要逃避新知识和解决方案，多思考学习、人生、工作的事情&lt;br&gt;4. 站稳脚跟：新团队很大风险，随时可能滚蛋，要打起十二分精神过好接下来每一天的工作，满足领导和同时的诉求；同时要做好随时像皮球一样被踢走的准备，准备好后路；&lt;br&gt;5. 控制饮食：过多的饮食不利于自己的思考和行动，适度饱腹即可&lt;br&gt;6. 开始运动：跑步、深蹲可以塑造身体，也可以放松身心和灵魂，每周适度运动1-2次；&lt;br&gt;7. 不当舔狗：不舔任何一个人，谁都靠不住，要靠我自己；&lt;br&gt;8. 自尊自爱：不要被pua，不要怀疑自己，努力做自己认为是正确的事情即可&lt;br&gt;9. 努力向上：积极努力，珍惜时间，不要再摆烂和逃避，积极面对生活的鲜血淋漓；" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ayuznKtC7ornopGSUXEp-6" value="next step&lt;br&gt;1. 放弃幻想：公司招我过来是让我创造价值和利益的，1k的成本要创造10k的价值，公司是要盈利的；不要指望公司能教会自己什么，不要指望身边的人能教给自己什么，我的能力和努力要满足他们的需求和诉求；&lt;br&gt;2. 脚踏实地：学习上从零开始（工作上没有任何机会从零开始，现实点），前后端网络数据结构等知识都重新开始学，先找到好的思维方式和学习方法，拟定现实的学习计划，培养学习兴趣，一步一步往上爬。&lt;br&gt;3. 思考：多用一下生锈的脑子，不要逃避新知识和解决方案，多思考学习、人生、工作的事情&lt;br&gt;4. 站稳脚跟：新团队很大风险，随时可能滚蛋，要打起十二分精神过好接下来每一天的工作，满足领导和同时的诉求；同时要做好随时像皮球一样被踢走的准备，准备好后路；&lt;br&gt;5. 控制饮食：过多的饮食不利于自己的思考和行动，适度饱腹即可&lt;br&gt;6. 开始运动：跑步、深蹲可以塑造身体，也可以放松身心和灵魂，每周适度运动1-2次；&lt;br&gt;7. 不当舔狗：不舔任何一个人，谁都靠不住，要靠我自己；&lt;br&gt;8. 自尊自爱：不要被pua，不要怀疑自己，努力做自己认为是正确的事情即可&lt;br&gt;9. 努力向上：积极努力，珍惜时间，不要再摆烂和逃避，积极面对生活的鲜血淋漓；" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
