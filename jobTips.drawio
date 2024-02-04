@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T03:32:52.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="y3Ruzb0UCvdD0UbVSonl" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-04T02:30:24.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SazmO4Q2jcqwRvbTXf6S" version="23.0.2" type="github">
   <diagram name="第 1 页" id="4iLV3aSLRmlBd6YKkux7">
     <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,18 @@
         </mxCell>
         <mxCell id="ayuznKtC7ornopGSUXEp-6" value="next step&lt;br&gt;1. 放弃幻想：公司招我过来是让我创造价值和利益的，1k的成本要创造10k的价值，公司是要盈利的；不要指望公司能教会自己什么，不要指望身边的人能教给自己什么，我的能力和努力要满足他们的需求和诉求；&lt;br&gt;2. 脚踏实地：学习上从零开始（工作上没有任何机会从零开始，现实点），前后端网络数据结构等知识都重新开始学，先找到好的思维方式和学习方法，拟定现实的学习计划，培养学习兴趣，一步一步往上爬。&lt;br&gt;3. 思考：多用一下生锈的脑子，不要逃避新知识和解决方案，多思考学习、人生、工作的事情&lt;br&gt;4. 站稳脚跟：新团队很大风险，随时可能滚蛋，要打起十二分精神过好接下来每一天的工作，满足领导和同时的诉求；同时要做好随时像皮球一样被踢走的准备，准备好后路；&lt;br&gt;5. 控制饮食：过多的饮食不利于自己的思考和行动，适度饱腹即可&lt;br&gt;6. 开始运动：跑步、深蹲可以塑造身体，也可以放松身心和灵魂，每周适度运动1-2次；&lt;br&gt;7. 不当舔狗：不舔任何一个人，谁都靠不住，要靠我自己；&lt;br&gt;8. 自尊自爱：不要被pua，不要怀疑自己，努力做自己认为是正确的事情即可&lt;br&gt;9. 努力向上：积极努力，珍惜时间，不要再摆烂和逃避，积极面对生活的鲜血淋漓；" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFJDH_w-gbafOOVu7U-F-1" value="曾经的正反馈&lt;br&gt;1. 课堂上的认真学习，绩点提升、老师认可和超越同学；&lt;br&gt;2. 努力学习找到的优于同学的实习&lt;br&gt;3. 前端可快速反馈的界面&lt;br&gt;4. 球场的球技&lt;br&gt;5. 优越的身高和外貌&lt;br&gt;6. 父母的认可" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFJDH_w-gbafOOVu7U-F-2" value="最近的负反馈&lt;br&gt;1. 领导的打压，恶心，pua，调岗&lt;br&gt;2. 前端不受重视，处于研发底层&lt;br&gt;3. 衰老的外貌和身体&lt;br&gt;4.输球&lt;br&gt;5. 家庭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFJDH_w-gbafOOVu7U-F-3" value="减少学习的阻力&lt;br&gt;不打英雄联盟&lt;br&gt;不躺床刷手机&lt;br&gt;不用手机和ipad刷视频&lt;br&gt;ipad只用于学习和脑暴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFJDH_w-gbafOOVu7U-F-5" value="增加玩耍的阻力&lt;br&gt;卸载游戏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
