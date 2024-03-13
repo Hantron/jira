@@ -1,9 +1,169 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T13:51:33.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.5" etag="6Qkly_MLUSLj2lBO9Sxk" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T14:14:22.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tB1_aLg0HT3ApNc7H4CR" version="24.0.5" type="github">
   <diagram name="第 1 页" id="YQSnKAG-CkbCW_agBmFR">
-    <mxGraphModel>
+    <mxGraphModel dx="2049" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-28" value="开发、提测、发版" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="285" y="310" />
+            </Array>
+            <mxPoint x="260" y="310.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-29" value="润典" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-30" value="oppo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="1170" as="sourcePoint" />
+            <mxPoint x="554.66" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="359.9999999999999" as="sourcePoint" />
+            <mxPoint x="255" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="x32YYk-rLdXgTgHHnrs6-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="850" as="sourcePoint" />
+            <mxPoint x="255" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-35" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="508.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="508.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-36" value="拉取和合并润典的master代码到oppo仓库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="485" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="10" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-38" value="基于润典最新的代码&lt;div&gt;新建feature分支&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;在该分支进行开发&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="590" y="540" />
+              <mxPoint x="590" y="570" />
+            </Array>
+            <mxPoint x="560" y="570.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-39" value="合并发布代码&lt;div&gt;到master分支&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="285" y="430" />
+            </Array>
+            <mxPoint x="260" y="430.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="x32YYk-rLdXgTgHHnrs6-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="1160" as="sourcePoint" />
+            <mxPoint x="255" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-47" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="508.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="508.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="10" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-50" value="开发、提测、发版" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="670" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="285" y="700" />
+            </Array>
+            <mxPoint x="260" y="700.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="x32YYk-rLdXgTgHHnrs6-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="1240" as="sourcePoint" />
+            <mxPoint x="255" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-52" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="958.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="958.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-53" value="合并发布代码&lt;div&gt;到master分支&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="790" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="285" y="820" />
+            </Array>
+            <mxPoint x="260" y="820.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="250" y="640" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-55" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="963.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="963.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-56" value="拉取和合并润典的master代码&lt;div&gt;到oppo仓库的feature分支&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="920" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-57" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="963.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="963.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-59" value="准备提测或回归测试前" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="860" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="590" y="860" />
+              <mxPoint x="590" y="890" />
+            </Array>
+            <mxPoint x="560" y="890.0000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-60" value="提测或回归测试" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1010" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="590" y="1010" />
+              <mxPoint x="590" y="1040" />
+            </Array>
+            <mxPoint x="560" y="1040.0000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-61" value="打包发布" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1080" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="590" y="1080" />
+              <mxPoint x="590" y="1110" />
+            </Array>
+            <mxPoint x="560" y="1110.0000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
