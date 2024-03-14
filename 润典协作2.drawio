@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T14:24:37.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9RS6_55U_HJ8vCh4xjYm" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T02:31:59.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gVLefsGt29SJ3OJ8i9F0" version="24.0.5" type="github">
   <diagram name="第 1 页" id="YQSnKAG-CkbCW_agBmFR">
-    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-28" value="开发、提测、发版" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-28" value="开发、提测、准备发版" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="280" as="sourcePoint" />
             <Array as="points">
@@ -13,53 +13,53 @@
             <mxPoint x="260" y="310.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-29" value="润典" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-29" value="润典" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="140" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-30" value="oppo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-30" value="oppo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="140" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="555" y="1170" as="sourcePoint" />
+            <mxPoint x="555" y="1380" as="sourcePoint" />
             <mxPoint x="554.66" y="224" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="255" y="359.9999999999999" as="sourcePoint" />
             <mxPoint x="255" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="x32YYk-rLdXgTgHHnrs6-45">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="x32YYk-rLdXgTgHHnrs6-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="255" y="850" as="sourcePoint" />
             <mxPoint x="255" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-35" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-35" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="260" y="508.8600000000001" as="sourcePoint" />
-            <mxPoint x="260" y="508.8600000000001" as="targetPoint" />
+            <mxPoint x="260" y="563.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="563.8600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-36" value="拉取和合并润典的release分支代码到oppo仓库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="485" width="270" height="30" as="geometry" />
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-36" value="拉取和合并润典的release分支代码到oppo仓库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="275" y="540" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="550" y="250" width="10" height="880" as="geometry" />
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="550" y="250" width="10" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-38" value="基于润典最新的代码&lt;div&gt;新建feature分支&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;在该分支进行开发&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-38" value="基于润典最新的代码&lt;div&gt;新建feature分支&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;在该分支进行开发&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="540" as="sourcePoint" />
+            <mxPoint x="560" y="610" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="590" y="540" />
-              <mxPoint x="590" y="570" />
+              <mxPoint x="590" y="610" />
+              <mxPoint x="590" y="640" />
             </Array>
-            <mxPoint x="560" y="570.0000000000002" as="targetPoint" />
+            <mxPoint x="560" y="640.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-39" value="合并发布代码&lt;div&gt;到release分支&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-39" value="合并发布代码&lt;div&gt;到润典仓库的oppo分支&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="400" as="sourcePoint" />
             <Array as="points">
@@ -68,100 +68,136 @@
             <mxPoint x="260" y="430.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="x32YYk-rLdXgTgHHnrs6-45">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="x32YYk-rLdXgTgHHnrs6-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="255" y="1160" as="sourcePoint" />
+            <mxPoint x="255" y="1380" as="sourcePoint" />
             <mxPoint x="255" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-47" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-47" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="550" y="508.8600000000001" as="sourcePoint" />
-            <mxPoint x="260" y="508.8600000000001" as="targetPoint" />
+            <mxPoint x="550" y="563.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="563.8600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="250" y="250" width="10" height="340" as="geometry" />
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="250" y="250" width="10" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-50" value="开发、提测、发版" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-50" value="开发、提测、准备发版" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="670" as="sourcePoint" />
+            <mxPoint x="255" y="750" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="285" y="700" />
+              <mxPoint x="285" y="780" />
             </Array>
-            <mxPoint x="260" y="700.0000000000001" as="targetPoint" />
+            <mxPoint x="260" y="780.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="x32YYk-rLdXgTgHHnrs6-54">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="x32YYk-rLdXgTgHHnrs6-54" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="255" y="1240" as="sourcePoint" />
-            <mxPoint x="255" y="860" as="targetPoint" />
+            <mxPoint x="255" y="1320" as="sourcePoint" />
+            <mxPoint x="255" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-52" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-52" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="260" y="958.8600000000001" as="sourcePoint" />
-            <mxPoint x="260" y="958.8600000000001" as="targetPoint" />
+            <mxPoint x="260" y="1038.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="1038.8600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-53" value="合并发布代码&lt;div&gt;到master分支&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-53" value="合并发布代码&lt;div&gt;到master分支&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="790" as="sourcePoint" />
+            <mxPoint x="255" y="870" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="285" y="820" />
+              <mxPoint x="285" y="900" />
             </Array>
-            <mxPoint x="260" y="820.0000000000002" as="targetPoint" />
+            <mxPoint x="260" y="900.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="250" y="640" width="10" height="490" as="geometry" />
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="250" y="720" width="10" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-55" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-55" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="260" y="963.8600000000001" as="sourcePoint" />
-            <mxPoint x="260" y="963.8600000000001" as="targetPoint" />
+            <mxPoint x="260" y="1043.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="1043.8600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-56" value="拉取和合并润典的release分支代码&lt;div&gt;到oppo仓库的feature分支&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="920" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-57" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="550" y="963.8600000000001" as="sourcePoint" />
-            <mxPoint x="260" y="963.8600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-59" value="准备提测或回归测试前" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-59" value="准备提测或回归测试前" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="860" as="sourcePoint" />
+            <mxPoint x="560" y="950" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="590" y="860" />
-              <mxPoint x="590" y="890" />
+              <mxPoint x="590" y="950" />
+              <mxPoint x="590" y="980" />
             </Array>
-            <mxPoint x="560" y="890.0000000000002" as="targetPoint" />
+            <mxPoint x="560" y="980.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-60" value="提测或回归测试" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-60" value="提测或回归测试" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="1010" as="sourcePoint" />
+            <mxPoint x="560" y="1160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="590" y="1010" />
-              <mxPoint x="590" y="1040" />
+              <mxPoint x="590" y="1160" />
+              <mxPoint x="590" y="1190" />
             </Array>
-            <mxPoint x="560" y="1040.0000000000002" as="targetPoint" />
+            <mxPoint x="560" y="1190.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x32YYk-rLdXgTgHHnrs6-61" value="打包发布" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="x32YYk-rLdXgTgHHnrs6-61" value="打包发布" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="1080" as="sourcePoint" />
+            <mxPoint x="560" y="1220" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="590" y="1080" />
-              <mxPoint x="590" y="1110" />
+              <mxPoint x="590" y="1220" />
+              <mxPoint x="590" y="1250" />
             </Array>
-            <mxPoint x="560" y="1110.0000000000002" as="targetPoint" />
+            <mxPoint x="560" y="1250.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYLeOd8KotXhSyW-pGkt-1" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="503.8600000000001" as="sourcePoint" />
+            <mxPoint x="265" y="503.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYLeOd8KotXhSyW-pGkt-2" value="通知oppo侧拉取更新代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYLeOd8KotXhSyW-pGkt-3" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="504" as="sourcePoint" />
+            <mxPoint x="550" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYLeOd8KotXhSyW-pGkt-4" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="1113.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="1113.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYLeOd8KotXhSyW-pGkt-5" value="拉取和合并润典的release分支代码到oppo仓库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1090" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYLeOd8KotXhSyW-pGkt-6" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="1113.8600000000001" as="sourcePoint" />
+            <mxPoint x="260" y="1113.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYLeOd8KotXhSyW-pGkt-7" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="1053.8600000000001" as="sourcePoint" />
+            <mxPoint x="265" y="1053.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYLeOd8KotXhSyW-pGkt-8" value="通知oppo侧拉取更新代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1030" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYLeOd8KotXhSyW-pGkt-9" value="" style="endArrow=classic;endFill=1;html=1;rounded=0;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="1054" as="sourcePoint" />
+            <mxPoint x="550" y="1054" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
