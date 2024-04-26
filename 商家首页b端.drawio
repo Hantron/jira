@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T14:37:12.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wvwKCUaDqOBmBeCFI5Gw" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T01:43:18.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KVyXVGUpxSTjLBWiAAX-" version="24.0.7" type="github">
   <diagram name="第 1 页" id="h7MW-Ii9uqY4F-rVuS4S">
     <mxGraphModel dx="2514" dy="-291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L3Szd93HhUc9F-tcwmS9-33" value="发布流程" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+        <mxCell id="L3Szd93HhUc9F-tcwmS9-33" value="商家首页" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1280" width="1770" height="610" as="geometry" />
         </mxCell>
         <mxCell id="L3Szd93HhUc9F-tcwmS9-34" value="B端APP" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="L3Szd93HhUc9F-tcwmS9-33">
