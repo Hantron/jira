@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T08:50:51.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Q0kd8t-b0aujlZGXoIfv" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T08:52:13.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_jAO7SbxKbROQz6-GMgJ" version="24.6.4" type="github">
   <diagram name="第 1 页" id="IzEnDPAUJuN04H2j6fbV">
-    <mxGraphModel dx="2390" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,11 +71,13 @@
         </mxCell>
         <mxCell id="zlEN9Ek9pt-c74HQ6Wqn-13" value="启动流水线" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="550" as="sourcePoint" />
+            <mxPoint x="405" y="570" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="435" y="580" />
+              <mxPoint x="405" y="550" />
+              <mxPoint x="435" y="550" />
+              <mxPoint x="435" y="600" />
             </Array>
-            <mxPoint x="410" y="580" as="targetPoint" />
+            <mxPoint x="410" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zlEN9Ek9pt-c74HQ6Wqn-15" value="测试计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -97,12 +99,12 @@
           <mxGeometry x="675" y="620" width="10" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="zlEN9Ek9pt-c74HQ6Wqn-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;执行自动&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: initial;&quot;&gt;测试计划&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="610" width="90" height="30" as="geometry" />
+          <mxGeometry x="490" y="630" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zlEN9Ek9pt-c74HQ6Wqn-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.5;exitY=0.609;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="639.9999999999999" as="sourcePoint" />
-            <mxPoint x="675" y="639.9999999999999" as="targetPoint" />
+            <mxPoint x="410" y="659.9999999999999" as="sourcePoint" />
+            <mxPoint x="675" y="659.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zlEN9Ek9pt-c74HQ6Wqn-21" value="node服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
